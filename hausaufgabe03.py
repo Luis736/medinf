@@ -21,3 +21,4 @@ print(summe)
 print(omega)
 print(k)
 print(phi)
+#%%#
